@@ -22,10 +22,7 @@ AuctionPrice Prediction-
     Rx = R-squared value of this model
 
     VIF = 1/1-Rx^2
-
-    HeatMap corr
-    Screenshot 2020-08-13 at 6 10 41 PM
-
+  
     Here, 1.T-RUNS and ODI-RUNS are highly Correlated.
 
       2.ODI-WKTS and T-WKTS are highly Correlated.
