@@ -1,8 +1,5 @@
 # IPL-Auction-Price-Predictor
-AuctionPrice Prediction
-
-Predicting Auction Price for IPL Players
-https://en.wikipedia.org/wiki/Ordinary_least_squares
+AuctionPrice Prediction-
 
     Multiple Linear Regression
 
@@ -10,13 +7,15 @@ https://en.wikipedia.org/wiki/Ordinary_least_squares
 
     Libraries
 
-        numpy
+        1.numpy for arrays
 
-        matplot
+        2.matplotlib.pyplot for visualization
 
-        pandas
+        3.pandas
 
-        seaborn
+        4.seaborn for Statistical graphocs Visualization
+        
+        5.statsmodel for statistics modelling
 
     Multi-collinearity
 
